@@ -1,0 +1,8 @@
+usar > para criar arquivo em vez de usar touch.
+
+
+Compare o tempo que leva a criação de arquivo com os comandos abaixo: 
+time > arquivoasercriado.txt
+time touch arquivoasercriado.txt
+
+

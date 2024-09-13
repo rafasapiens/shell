@@ -1,0 +1,16 @@
+Inserir dados no arquivo novo
+
+Ok
+ctrl+d para sair
+
+# Pag 35 livro Shell Script Aurelio Jargas
+# exibe uma tela no shell
+dialog --title "Olá otário" --msgbox "Apagar todos arquivos?" 0 0
+
+# pag 36 livro Shell Script
+# exibe uma sequencia numérica
+seq 5 5 50
+seq 7 7 70
+
+exibe barra de instalação
+dialog --gauge "Please wait while instaling" 6 60 38

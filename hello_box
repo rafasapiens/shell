@@ -1,0 +1,6 @@
+#https://www.geeksforgeeks.org/shell-scripting-dialog-boxes/
+#!/usr/bin/env bash
+function DialogGen() {
+dialog --title "Hello" --msgbox 'Hello GFG Users!' 6 20
+}
+DialogGen
